@@ -52,3 +52,5 @@ Now we are going to install two plugins for CLEO. They are CLEO+ and NewOpcodes,
 ### :icon-file-directory-fill: Largeaddress
 By default, GTA SA can't use more than 1024 MB of ram. This is because it is a 32 bit application and does not have the /LARGEADDRESSAWARE flag in the executable. Largeaddress enables that flag and will allow you to use more than 1024 MB of ram. 
 
+___Work In Progress ___
+
