@@ -1,0 +1,19 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+ logo: images/doclogo.png
+ label: SAMG
+links: 
+- text: GitHub
+  icon: mark-github
+  link: https://github.com/alluxd/samg
+- text: MixMods
+  icon: download
+  link: https://mixmods.com.br
+- text: GTAForums
+  link: https://gtaforums.com/
+  icon: question
+footer:
+  copyright: "This website is liscensed under MIT, visit the GitHub for more info."
+  
