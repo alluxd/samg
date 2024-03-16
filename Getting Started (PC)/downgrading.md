@@ -5,6 +5,8 @@
 
 -![](/images/saProperties.png)--
 
+-------------------------------------
+
 
 ## :icon-download: Downgrading the Steam/Rockstar Games Launcher Version
 !!! Notice
